@@ -1,0 +1,14 @@
+.container{
+    position: absolute;
+    top: 100px;
+    left: 40%;
+    background-color: aqua;
+    padding: 20px;
+    border-radius: 5px;
+    
+    
+}
+
+table,th,tr,td,thead,tbody{
+    border: 1px solid black;
+}
